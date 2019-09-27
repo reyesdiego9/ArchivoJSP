@@ -1,0 +1,25 @@
+li{
+    list-style-type: none;
+}
+
+#Datos{
+    text-align: justify;
+    color: white;
+    background: rgba(0, 0, 0, 0.8);
+    margin: auto;
+    width: 450px;
+    height: 450px;
+    padding: 125px 25px;;
+    box-sizing: border-box;
+    border-radius: 100%;
+    font-size: 30px;
+}
+
+#padre{
+  margin-top: 200px;
+  height: 100%;
+  /*IMPORTANTE*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
